@@ -1,2 +1,2 @@
-# write_ds_blog_post
-Udacity Project: Write a Data Science Blog Post
+# Udacity Project: Write a Data Science Blog Post
+## Dataset: Seattle AirBnB
